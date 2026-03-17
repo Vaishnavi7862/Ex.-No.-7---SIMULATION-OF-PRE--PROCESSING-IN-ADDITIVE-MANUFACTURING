@@ -44,9 +44,14 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-
-### Name:
-### Register Number:
+SUPPORT REMOVAL
+<img width="1904" height="908" alt="image" src="https://github.com/user-attachments/assets/f6e1b823-06ef-44d3-8ea5-2e7792d49134" />
+UV CURVING
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/44f05d29-cc5e-4fc0-a9c3-1ea9b61f2d0d" />
+HEAT TREATMENT
+<img width="1919" height="811" alt="image" src="https://github.com/user-attachments/assets/cc166aa2-8aba-4b59-8b4d-2d5857f0daee" />
+### Name: VAISHNAVI.D
+### Register Number: 21224220118
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
